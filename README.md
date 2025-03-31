@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+👨‍💻 Applied Computer Science | ML & Data Science | Bash Scripting
+
+Interested in:
+- Security
+- Software Development
+- Machine Learning
+
 <!--
 **c9rypt/c9rypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
