@@ -59,9 +59,9 @@ Interested in:
 ## 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=c9rypt&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=c9rypt&theme=dark&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c9rypt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=cr9pt&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=cr9pt&theme=dark&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr9pt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
 <!-- Some of them created with GPRM ( https://gprm.itsvg.in ) -->
 
